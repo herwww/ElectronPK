@@ -1,5 +1,5 @@
-//#include<msp430g2553.h>
-#include<msp430g2231.h>
+#include<msp430g2553.h>
+//#include<msp430g2231.h>
 int main( void )
 {
   // Stop watchdog timer to prevent time out reset
